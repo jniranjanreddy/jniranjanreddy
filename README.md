@@ -1,4 +1,4 @@
-- 👋 Hi, I’m j. Niranjan Reddy
+- 👋 Hi, I’m J.Niranjan Reddy
 - 👀 I’m Ansible and Redhat Certified Engineer
 - 🌱 I Live in India, Hyderabad
 - 💞️ I’m looking to collaborate on ...
