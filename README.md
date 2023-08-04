@@ -1,5 +1,7 @@
 - 👋 Hi, I’m J.Niranjan Reddy.
-- 👀 I’m Ansible and Redhat Certified Engineer.
+- 👀 I’m DevOps Engineer with 15 years of IT Experienc
+- 👀 I’m MicroSoft Certified Azure Administrator
+- 👀 I’m RedHat Certified RHEL and Ansible.
 - 🌱 I Live in India, Hyderabad.
 - 💞️ I’m passionate in Cloud and Kubernetes technologies.
 - 📫 How to reach me ...
